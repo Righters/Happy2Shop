@@ -1,0 +1,2 @@
+# Happy2Shop
+Happy 2 Shop is a shopping mall app using barcode scanner .when we are going to purchase some items in shopping mall after took the items we have to wait more time at cash counter for the bill,we trying to reduce the time of waiting and create an app through which you just scan the barcode of that item and item automaticlly added into your cart and then you pay online through wallet or debit card.
